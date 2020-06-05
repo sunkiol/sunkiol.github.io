@@ -1,8 +1,8 @@
 ## Settings
-title: pRoJEct-NeGYa
+title: sunkio
 owner: "DeerRIDER"
 url: "https://sunkio.xyz"
-baseurl: "/blog"
+baseurl: "/"
 permalink: /:title/
 description: ""
 markdown: kramdown
