@@ -1,7 +1,7 @@
 ## Settings
 title: sunkio
 owner: "DeerRIDER"
-url: "https://sunkio.xyz"
+url: "http://sunkio.xyz"
 baseurl: "/"
 permalink: /:title/
 description: ""
